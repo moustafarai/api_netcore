@@ -12639,11 +12639,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\workspace\\api_netcore\\webapi.netcore\\webapi.netcore.csproj",
+      "projectUniqueName": "C:\\workspace\\api_netcore\\webapi.netcore.csproj",
       "projectName": "webapi.netcore",
-      "projectPath": "C:\\workspace\\api_netcore\\webapi.netcore\\webapi.netcore.csproj",
+      "projectPath": "C:\\workspace\\api_netcore\\webapi.netcore.csproj",
       "packagesPath": "C:\\Users\\mustapha.ferhaoui\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\api_netcore\\webapi.netcore\\obj\\",
+      "outputPath": "C:\\workspace\\api_netcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
