@@ -24,6 +24,8 @@ namespace webapi.netcore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddHsts( options => options.Preload=true);
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,7 +35,7 @@ namespace webapi.netcore
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseHsts();
             app.UseMvc();
         }
     }

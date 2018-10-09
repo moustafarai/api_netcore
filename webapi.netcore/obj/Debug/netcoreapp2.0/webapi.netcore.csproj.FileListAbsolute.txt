@@ -1,0 +1,11 @@
+C:\workspace\api_netcore\webapi.netcore\bin\Debug\netcoreapp2.0\webapi.netcore.deps.json
+C:\workspace\api_netcore\webapi.netcore\bin\Debug\netcoreapp2.0\webapi.netcore.runtimeconfig.json
+C:\workspace\api_netcore\webapi.netcore\bin\Debug\netcoreapp2.0\webapi.netcore.runtimeconfig.dev.json
+C:\workspace\api_netcore\webapi.netcore\bin\Debug\netcoreapp2.0\webapi.netcore.dll
+C:\workspace\api_netcore\webapi.netcore\bin\Debug\netcoreapp2.0\webapi.netcore.pdb
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.csprojResolveAssemblyReference.cache
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.csproj.CoreCompileInputs.cache
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.AssemblyInfoInputs.cache
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.AssemblyInfo.cs
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.dll
+C:\workspace\api_netcore\webapi.netcore\obj\Debug\netcoreapp2.0\webapi.netcore.pdb
